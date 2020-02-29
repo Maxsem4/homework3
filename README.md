@@ -1,19 +1,40 @@
-# homework3
+# Password Generator
 
-## initial page of the password generator
+## Table of contents
 
-![Image description](/Users/maxsem/Code/homework3/assets/SS1.png)
+- Instalation
+- Usage
+- Credits
+- License
 
-## the flow of the questios to make up the criteria of the password
+## Instalation
 
-![Image description](/Users/maxsem/Code/homework3/assets/SS2.png)
-![Image description](/Users/maxsem/Code/homework3/assets/SS3.png)
-![Image description](/Users/maxsem/Code/homework3/assets/SS4.png)
-![Image description](/Users/maxsem/Code/homework3/assets/SS5.png)
-![Image description](/Users/maxsem/Code/homework3/assets/SS6.png)
-![Image description](/Users/maxsem/Code/homework3/assets/SS7.png)
+Here are the steps to install the repository
 
-### thank you for browsing my password generator
+1. Clone the repository
+2. Pull the repository to make sure you have the most current version
+3. Add any changes made
+4. Commit your changes and make sure to leave a message of what was done
+5. And finally Push the changes up to GitHub once done
+
+## Usage
+
+![Image description](./assets/SS1.png)
+
+## the flow of the questions to make up the criteria of the password
+
+![Image description](./assets/SS2.png)
+![Image description](./assets/SS3.png)
+![Image description](./assets/SS4.png)
+![Image description](./assets/SS5.png)
+![Image description](./assets/SS6.png)
+![Image description](./assets/SS7.png)
+
+### Thank You for browsing my password generator
+
+## Credit
+
+Credits go out to Carlton University Bootcamp for supplying the idea for the website.
 
 #### Licence
 
